@@ -1,0 +1,5 @@
+{
+  "name": "SheetFusion",
+  "description": "Effortlessly merge multiple Excel sheets into a single CSV file. Includes AI-powered insights to analyze your combined data.",
+  "requestFramePermissions": []
+}
